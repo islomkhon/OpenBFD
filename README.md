@@ -30,6 +30,13 @@ In December 2016, the project titled "Research and Application of Belt Conveyor 
 - **Education**: Associate Prof. in Artificial Intelligence and Cloud Computing, China University of Mining and Technology
 - **Key Skills**: AI, Cloud Computing, Industrial Automation, Mechanical Equipment Condition Monitoring
 
+<div style="display: flex; align-items: center;">
+  <p style="flex: 1; text-align: left; margin-right: 10px;">
+    Zhang Bo is engaged in theoretical and applied research in artificial intelligence, machine learning, pattern recognition, mechanical equipment condition monitoring, and cloud computing. He has led projects funded by the Jiangsu Provincial Basic Research Program and has published several research papers.
+  </p>
+  <img src="https://github.com/islomkhon/OpenBFD/blob/main/Authors/ZhangBo.png" alt="Zhang Bo" style="width: 200px;"/>
+</div>
+
 
 ## Features
 

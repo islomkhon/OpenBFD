@@ -8,16 +8,16 @@ OpenBFD is an open-source deep learning tool for bearing fault diagnosis built w
 
 ## Authors
 
-### Author 1: Islomkhon Nizomkhonov (小伊)
 ![Islomkhon Nizomkhonov](https://github.com/islomkhon/OpenBFD/blob/main/Authors/IslomkhonNizomkhonov.png)
+### Islomkhon Nizomkhonov (小伊)
 
 Islomkhon Nizomkhonov is a senior software engineer with over 10 years of experience in the field of machine learning and predictive maintenance. He has worked with several industries and big companies like XCMG (徐工集团) and Uztelecom (Uzbekistan National Telecom Provider), providing solutions using deep learning techniques. His research primarily focuses on using neural networks for fault diagnosis in industrial IoT systems.
 
 - **Education**: Ms.D. in Computer Science, China University of Mining and Technology
 - **Key Skills**: Software Engineering, Deep Learning, Machine Learning, Data Science, IoT, Predictive Maintenance.
 
-### Author 2: Mr. ZhangBo (张博)
 ![Mr. ZhangBo](https://github.com/islomkhon/OpenBFD/blob/main/Authors/ZhangBo.png)
+### Mr. ZhangBo (张博)
 
 Mr. ZhangBo is Islomkhon Nizomkhonov's master's degree supervisor for his research project on distributed deep neural networks, which Islomkhon conducted at China University of Mining and Technology.
 
@@ -29,14 +29,6 @@ In December 2016, the project titled "Research and Application of Belt Conveyor 
 
 - **Education**: Associate Prof. in Artificial Intelligence and Cloud Computing, China University of Mining and Technology
 - **Key Skills**: AI, Cloud Computing, Industrial Automation, Mechanical Equipment Condition Monitoring
-
-<div style="display: flex; align-items: center;">
-  <p style="flex: 1; text-align: left; margin-right: 10px;">
-    Zhang Bo is engaged in theoretical and applied research in artificial intelligence, machine learning, pattern recognition, mechanical equipment condition monitoring, and cloud computing. He has led projects funded by the Jiangsu Provincial Basic Research Program and has published several research papers.
-  </p>
-  <img src="https://github.com/islomkhon/OpenBFD/blob/main/Authors/ZhangBo.png" alt="Zhang Bo" style="width: 200px;"/>
-</div>
-
 
 ## Features
 

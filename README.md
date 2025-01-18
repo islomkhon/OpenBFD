@@ -9,7 +9,7 @@ OpenBFD is an open-source deep learning tool for bearing fault diagnosis built w
 ## Authors
 
 ### Author 1: Islomkhon Nizomkhonov (小伊)
-![Islomkhon Nizomkhonov](https://github.com/islomkhon/OpenBFD/Authors/IslomkhonNizomkhonov.png)
+![Islomkhon Nizomkhonov](https://github.com/islomkhon/OpenBFD/blob/main/Authors/IslomkhonNizomkhonov.png)
 
 Islomkhon Nizomkhonov is a senior software engineer with over 10 years of experience in the field of machine learning and predictive maintenance. He has worked with several industries and big companies like XCMG (徐工集团) and Uztelecom (Uzbekistan National Telecom Provider), providing solutions using deep learning techniques. His research primarily focuses on using neural networks for fault diagnosis in industrial IoT systems.
 
@@ -17,7 +17,7 @@ Islomkhon Nizomkhonov is a senior software engineer with over 10 years of experi
 - **Key Skills**: Software Engineering, Deep Learning, Machine Learning, Data Science, IoT, Predictive Maintenance.
 
 ### Author 2: Mr. ZhangBo (张博)
-![Mr. ZhangBo](https://github.com/islomkhon/OpenBFD/Authors/ZhangBo.png)
+![Mr. ZhangBo](https://github.com/islomkhon/OpenBFD/blob/main/Authors/ZhangBo.png)
 
 Mr. ZhangBo is Islomkhon Nizomkhonov's master's degree supervisor for his research project on distributed deep neural networks, which Islomkhon conducted at China University of Mining and Technology.
 

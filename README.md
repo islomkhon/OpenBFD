@@ -10,14 +10,17 @@ OpenBFD is an open-source deep learning tool for bearing fault diagnosis built w
 
 ![Islomkhon Nizomkhonov](https://github.com/islomkhon/OpenBFD/blob/main/Images/Authors/IslomkhonNizomkhonov.png)
 ### Islomkhon Nizomkhonov (小伊)
-
-Islomkhon Nizomkhonov was born in 1994 in Taskent, Uzbekistan. He is a senior software engineer with over 6 years of experience in the field of machine learning and predictive maintenance. He has worked with several industries and big companies like [XCMG (徐工集团)](https://www.xcmg.com) and [Uztelecom (Uzbekistan National Telecom Provider)](https://uztelecom.uz), providing solutions using deep learning techniques. His research primarily focuses on using neural networks for fault diagnosis in industrial IoT systems.
-
 - **Education**: Ms.D. in Computer Science, China University of Mining and Technology
 - **Key Skills**: Software Engineering, Deep Learning, Machine Learning, Data Science, IoT, Predictive Maintenance.
 
+Islomkhon Nizomkhonov was born in 1994 in Taskent, Uzbekistan. He is a senior software engineer with over 6 years of experience in the field of machine learning and predictive maintenance. He has worked with several industries and big companies like [XCMG (徐工集团)](https://www.xcmg.com) and [Uztelecom (Uzbekistan National Telecom Provider)](https://uztelecom.uz), providing solutions using deep learning techniques. His research primarily focuses on using neural networks for fault diagnosis in industrial IoT systems.
+
+
+
 ![Mr. ZhangBo](https://github.com/islomkhon/OpenBFD/blob/main/Images/Authors/ZhangBo.png)
 ### Mr. ZhangBo (张博)
+- **Education**: Associate Prof. in Artificial Intelligence and Cloud Computing, China University of Mining and Technology
+- **Key Skills**: AI, Cloud Computing, Industrial Automation, Mechanical Equipment Condition Monitoring
 
 Mr. ZhangBo is Islomkhon Nizomkhonov's master's degree supervisor for his research project on distributed deep neural networks, which Islomkhon conducted at China University of Mining and Technology.
 
@@ -27,8 +30,7 @@ ZhangBo is engaged in theoretical and applied research in artificial intelligenc
 
 In December 2016, the project titled "Research and Application of Belt Conveyor Monitoring and Fire Warning Technology" led by ZhangBo won the second prize of the "China Coal Industry Science and Technology Award" from the China National Coal Association and the China Coal Society. The project was successfully applied to the belt conveyors at the underground mines of the Zhongmei Pingshuo Group, effectively addressing the challenges of condition monitoring, fault diagnosis and forecasting, as well as fire warning for belt conveyors under operational conditions in the mining environment.
 
-- **Education**: Associate Prof. in Artificial Intelligence and Cloud Computing, China University of Mining and Technology
-- **Key Skills**: AI, Cloud Computing, Industrial Automation, Mechanical Equipment Condition Monitoring
+
 
 ## Features
 
@@ -51,28 +53,15 @@ pip install -r requirements.txt
 ```
 OpenBFD/
 │
-├── Authors/
-│   ├── IslomkhonNizomkhonov.png
-│   ├── ZhangBo.png
-│   └── README.md
-│
-├── Datasets/
+├── 1.Datasets/
 │   ├── DatasetName/
 │   │   ├── RawData/
 │   │   ├── preprocessor.py
 │   │   └── README.md
 │   │
 │   └── README.md
-│  
-├── Experiments/
-│   ├── ModelInputOutputType/
-│   │   └── ModelName/
-│   │       └── DatasetName/
-│   │           └── ExperimentName.py
-│   │
-│   └── README.md
 │
-├── Models/
+├── 2.Models/
 │   ├── ModelInputOutputType/
 │   │   └── ModelName/
 │   │       ├── Model.py
@@ -81,10 +70,25 @@ OpenBFD/
 │   │           
 │   └── README.md
 │
-├── TrainingLoops/
+├── 3.TrainingLoops/
 │   ├── ModelInputOutputType/
 │   │   └── train.py
 │   │           
+│   └── README.md
+│  
+├── 4.Experiments/
+│   ├── ModelInputOutputType/
+│   │   └── ModelName/
+│   │       └── DatasetName/
+│   │           └── ExperimentName.ipynb
+│   │
+│   └── README.md
+│
+├── 5.Images/
+│   ├── Authors/
+│   │   ├── IslomkhonNizomkhonov.png
+│   │   ├── ZhangBo.png
+│   │ 
 │   └── README.md
 │
 ├── README.md 

@@ -8,7 +8,7 @@ OpenBFD is an open-source deep learning tool for bearing fault diagnosis built w
 
 ## Authors
 
-![Islomkhon Nizomkhonov](https://github.com/islomkhon/OpenBFD/blob/main/5.Images/Authors/IslomkhonNizomkhonov.png)
+![Islomkhon Nizomkhonov](/5.Images/Authors/IslomkhonNizomkhonov.png)
 ### Islomkhon Nizomkhonov (小伊)
 - **Education**: Ms.D. in Computer Science, China University of Mining and Technology
 - **Key Skills**: Software Engineering, Deep Learning, Machine Learning, Data Science, IoT, Predictive Maintenance.
@@ -49,6 +49,8 @@ pip install -r requirements.txt
 ```
 
 ## Quick Start
+
+The overall structure of the project is listed below as a project tree. Each README.md file inside the subdirectories contains specific documentation related to the files and the purpose of that directory. 
 
 ```
 OpenBFD/
@@ -94,25 +96,6 @@ OpenBFD/
 ├── README.md 
 └── requirements.txt
 ```
-
-## Documentation
-
-For detailed documentation, visit our [documentation page](link-to-your-docs).
-
-### Examples
-
-- [Basic Fault Detection](examples/basic_fault_detection.py)
-- [Custom Model Training](examples/custom_training.py)
-- [Real-time Analysis](examples/realtime_analysis.py)
-- [Data Preprocessing](examples/preprocessing.py)
-
-## Supported Fault Types
-
-- Inner Race Faults
-- Outer Race Faults
-- Ball Faults
-- Cage Faults
-- Combination Faults
 
 ## Contributing
 

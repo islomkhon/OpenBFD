@@ -15,21 +15,21 @@ OpenBFD is an open-source deep learning tool for bearing fault diagnosis built w
 
 ## Authors
 
-![Islomkhon Nizomkhonov](/5.Images/Authors/IslomkhonNizomkhonov.png)
+![Islomkhon Nizomkhonov](/Pictures/Authors/IslomkhonNizomkhonov.png)
 ### Islomkhon Nizomkhonov (小伊)
 - **Education**: Ms.D. in Computer Science, China University of Mining and Technology
 - **Key Skills**: Software Engineering, Deep Learning, Machine Learning, Data Science, IoT, Predictive Maintenance.
 
 Islomkhon Nizomkhonov was born in 1994 in Taskent, Uzbekistan. He is a senior software engineer with over 6 years of experience in the field of machine learning and predictive maintenance. He has worked with several industries and big companies like [XCMG (徐工集团)](https://www.xcmg.com) and [Uztelecom (Uzbekistan National Telecom Provider)](https://uztelecom.uz), providing solutions using deep learning techniques. His research primarily focuses on using neural networks for fault diagnosis in industrial IoT systems.
 
-![Mr. ZhangBo](/5.Images/Authors/ZhangBo.png)
+![Mr. ZhangBo](/Pictures/Authors/ZhangBo.png)
 ### Mr. ZhangBo (张博)
 - **Education**: Associate Prof. in Artificial Intelligence and Cloud Computing, China University of Mining and Technology
 - **Key Skills**: AI, Cloud Computing, Industrial Automation, Mechanical Equipment Condition Monitoring
 
 Mr. ZhangBo is Islomkhon Nizomkhonov's master's degree supervisor for his research project on distributed deep neural networks, which Islomkhon conducted at China University of Mining and Technology.
 
-Mr. ZhangBo, was born in 1981 in Xuzhou, Jiangsu Province. He graduated from the Institute of Computing Technology, Chinese Academy of Sciences, with a Ph.D., and completed his postdoctoral research at China University of Mining and Technology. In 2018, he was a visiting scholar at the Institute of Data Science (IDS), National University of Singapore (NUS). He is currently an associate professor at the School of Computer Science, China University of Mining and Technology.
+Mr. ZhangBo, was born in 1981 in Xuzhou, Jiangsu Province in China. He graduated from the Institute of Computing Technology, Chinese Academy of Sciences, with a Ph.D., and completed his postdoctoral research at China University of Mining and Technology. In 2018, he was a visiting scholar at the Institute of Data Science (IDS), National University of Singapore (NUS). He is currently an associate professor at the School of Computer Science, China University of Mining and Technology.
 
 ZhangBo is engaged in theoretical and applied research in artificial intelligence, machine learning, pattern recognition, mechanical equipment condition monitoring, and cloud computing. He has led one project funded by the Jiangsu Provincial Basic Research Program (Natural Science Foundation) under the Youth Fund, one project under the 62nd batch of the China Postdoctoral Science Foundation, and one project under the Jiangsu Postdoctoral Research Funding Program. In recent years, he has applied for/been granted 3 invention patents, published 7 papers in SCI journals, and 3 papers in EI journals. He serves as a reviewer for international journals such as *IEEE Transactions on Industrial Electronics* and *Journal of Computer Science* as well as other domestic and international journals. 
 
@@ -41,7 +41,7 @@ In December 2016, the project titled "Research and Application of Belt Conveyor 
 ```bash
 git clone https://github.com/islomkhon/OpenBFD.git
 cd OpenBFD
-pip install -r requirements.txt
+pip install -e .
 ```
 
 ## Quick Start
@@ -51,7 +51,7 @@ The overall structure of the project is outlined below in the form of a project 
 ```
 OpenBFD/
 │
-├── 1.Datasets/
+├── Datasets/
 │   ├── DatasetName/
 │   │   ├── RawData/
 │   │   ├── preprocessor.py
@@ -59,7 +59,7 @@ OpenBFD/
 │   │
 │   └── README.md
 │
-├── 2.Models/
+├── DLModels/
 │   ├── ModelInputOutputType/
 │   │   └── ModelName/
 │   │       ├── Model.py
@@ -68,13 +68,13 @@ OpenBFD/
 │   │           
 │   └── README.md
 │
-├── 3.TrainingLoops/
+├── FitLoops/
 │   ├── ModelInputOutputType/
 │   │   └── train.py
 │   │           
 │   └── README.md
 │  
-├── 4.Experiments/
+├── Notebook/
 │   ├── ModelInputOutputType/
 │   │   └── ModelName/
 │   │       └── DatasetName/
@@ -82,7 +82,7 @@ OpenBFD/
 │   │
 │   └── README.md
 │
-├── 5.Images/
+├── Pictures/
 │   ├── Authors/
 │   │   ├── IslomkhonNizomkhonov.png
 │   │   └──  ZhangBo.png
@@ -90,7 +90,7 @@ OpenBFD/
 │   └── README.md
 │
 ├── README.md 
-└── requirements.txt
+└── setup.py
 ```
 
 ## Contributing
@@ -135,6 +135,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you find this project helpful, you can support OpenBFD by making donations via:
 
+
 <table>
   <tr>
     <th>WeChat</th>
@@ -142,10 +143,10 @@ If you find this project helpful, you can support OpenBFD by making donations vi
   </tr>
   <tr>
     <td>
-      <img src="/5.Images/QR/wechat.jpg" alt="WeChat QR Code" width="280"/>
+      <img src="/Pictures/QR/wechat.jpg" alt="WeChat QR Code" width="280"/>
     </td>
     <td>
-      <img src="/5.Images/QR/alipay.jpg" alt="Alipay QR Code" width="280"/>
+      <img src="/Pictures/QR/alipay.jpg" alt="Alipay QR Code" width="280"/>
     </td>
   </tr>
 </table>

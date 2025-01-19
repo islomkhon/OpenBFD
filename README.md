@@ -84,9 +84,6 @@ OpenBFD/
 │
 ├── Pictures/
 │   ├── Authors/
-│   │   ├── IslomkhonNizomkhonov.png
-│   │   └──  ZhangBo.png
-│   │ 
 │   └── README.md
 │
 ├── README.md 

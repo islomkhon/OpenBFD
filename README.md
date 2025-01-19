@@ -6,6 +6,13 @@
 
 OpenBFD is an open-source deep learning tool for bearing fault diagnosis built with PyTorch. It provides comprehensive solutions for detecting and classifying bearing faults using raw vibration data and advanced deep learning techniques.
 
+## Features
+
+- Deep learning models specifically designed for bearing fault detection
+- Real-time vibration data analysis
+- Support for custom dataset training
+- Comprehensive visualization tools for fault analysis
+
 ## Authors
 
 ![Islomkhon Nizomkhonov](/5.Images/Authors/IslomkhonNizomkhonov.png)
@@ -14,8 +21,6 @@ OpenBFD is an open-source deep learning tool for bearing fault diagnosis built w
 - **Key Skills**: Software Engineering, Deep Learning, Machine Learning, Data Science, IoT, Predictive Maintenance.
 
 Islomkhon Nizomkhonov was born in 1994 in Taskent, Uzbekistan. He is a senior software engineer with over 6 years of experience in the field of machine learning and predictive maintenance. He has worked with several industries and big companies like [XCMG (徐工集团)](https://www.xcmg.com) and [Uztelecom (Uzbekistan National Telecom Provider)](https://uztelecom.uz), providing solutions using deep learning techniques. His research primarily focuses on using neural networks for fault diagnosis in industrial IoT systems.
-
-
 
 ![Mr. ZhangBo](/5.Images/Authors/ZhangBo.png)
 ### Mr. ZhangBo (张博)
@@ -30,15 +35,6 @@ ZhangBo is engaged in theoretical and applied research in artificial intelligenc
 
 In December 2016, the project titled "Research and Application of Belt Conveyor Monitoring and Fire Warning Technology" led by ZhangBo won the second prize of the "China Coal Industry Science and Technology Award" from the China National Coal Association and the China Coal Society. The project was successfully applied to the belt conveyors at the underground mines of the Zhongmei Pingshuo Group, effectively addressing the challenges of condition monitoring, fault diagnosis and forecasting, as well as fire warning for belt conveyors under operational conditions in the mining environment.
 
-
-
-## Features
-
-- Deep learning models specifically designed for bearing fault detection
-- Real-time vibration data analysis
-- Pre-trained models for common bearing fault types
-- Support for custom dataset training
-- Comprehensive visualization tools for fault analysis
 
 ## Installation
 

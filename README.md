@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 ## Quick Start
 
-The overall structure of the project is listed below as a project tree. Each README.md file inside the subdirectories contains specific documentation related to the files and the purpose of that directory. 
+The overall structure of the project is outlined below in the form of a project tree. Please review it carefully before starting. Each README.md file inside the subdirectories contains specific documentation related to the files and the purpose of that directory. 
 
 ```
 OpenBFD/

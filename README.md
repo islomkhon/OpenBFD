@@ -8,7 +8,7 @@ OpenBFD is an open-source deep learning tool for bearing fault diagnosis built w
 
 ## Authors
 
-![Islomkhon Nizomkhonov](https://github.com/islomkhon/OpenBFD/blob/main/Images/Authors/IslomkhonNizomkhonov.png)
+![Islomkhon Nizomkhonov](https://github.com/islomkhon/OpenBFD/blob/main/5.Images/Authors/IslomkhonNizomkhonov.png)
 ### Islomkhon Nizomkhonov (小伊)
 - **Education**: Ms.D. in Computer Science, China University of Mining and Technology
 - **Key Skills**: Software Engineering, Deep Learning, Machine Learning, Data Science, IoT, Predictive Maintenance.
@@ -17,7 +17,7 @@ Islomkhon Nizomkhonov was born in 1994 in Taskent, Uzbekistan. He is a senior so
 
 
 
-![Mr. ZhangBo](https://github.com/islomkhon/OpenBFD/blob/main/Images/Authors/ZhangBo.png)
+![Mr. ZhangBo](https://github.com/islomkhon/OpenBFD/blob/main/5.Images/Authors/ZhangBo.png)
 ### Mr. ZhangBo (张博)
 - **Education**: Associate Prof. in Artificial Intelligence and Cloud Computing, China University of Mining and Technology
 - **Key Skills**: AI, Cloud Computing, Industrial Automation, Mechanical Equipment Condition Monitoring
@@ -172,10 +172,10 @@ If you find this project helpful, you can support OpenBFD by making donations vi
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/islomkhon/OpenBFD/blob/main/Images/QR/wechat.jpg" alt="WeChat QR Code" width="280"/>
+      <img src="https://github.com/islomkhon/OpenBFD/blob/main/5.Images/QR/wechat.jpg" alt="WeChat QR Code" width="280"/>
     </td>
     <td>
-      <img src="https://github.com/islomkhon/OpenBFD/blob/main/Images/QR/alipay.jpg" alt="Alipay QR Code" width="280"/>
+      <img src="https://github.com/islomkhon/OpenBFD/blob/main/5.Images/QR/alipay.jpg" alt="Alipay QR Code" width="280"/>
     </td>
   </tr>
 </table>

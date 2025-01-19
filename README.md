@@ -4,19 +4,19 @@
 [![Python](https://img.shields.io/badge/python-3.8.10%2B-blue)](https://www.python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.1.1%2B-redcpu)](https://pytorch.org)
 
-OpenBFD is an open-source deep learning tool for bearing fault diagnosis built with PyTorch. It provides a comprehensive solution for detecting and classifying bearing faults using vibration analysis and advanced deep learning techniques.
+OpenBFD is an open-source deep learning tool for bearing fault diagnosis built with PyTorch. It provides comprehensive solutions for detecting and classifying bearing faults using raw vibration data and advanced deep learning techniques.
 
 ## Authors
 
-![Islomkhon Nizomkhonov](https://github.com/islomkhon/OpenBFD/blob/main/Authors/IslomkhonNizomkhonov.png)
+![Islomkhon Nizomkhonov](https://github.com/islomkhon/OpenBFD/blob/main/Images/Authors/IslomkhonNizomkhonov.png)
 ### Islomkhon Nizomkhonov (小伊)
 
-Islomkhon Nizomkhonov is a senior software engineer with over 10 years of experience in the field of machine learning and predictive maintenance. He has worked with several industries and big companies like [XCMG (徐工集团)](https://www.xcmg.com) and [Uztelecom (Uzbekistan National Telecom Provider)](https://uztelecom.uz), providing solutions using deep learning techniques. His research primarily focuses on using neural networks for fault diagnosis in industrial IoT systems.
+Islomkhon Nizomkhonov was born in 1994 in Taskent, Uzbekistan. He is a senior software engineer with over 6 years of experience in the field of machine learning and predictive maintenance. He has worked with several industries and big companies like [XCMG (徐工集团)](https://www.xcmg.com) and [Uztelecom (Uzbekistan National Telecom Provider)](https://uztelecom.uz), providing solutions using deep learning techniques. His research primarily focuses on using neural networks for fault diagnosis in industrial IoT systems.
 
 - **Education**: Ms.D. in Computer Science, China University of Mining and Technology
 - **Key Skills**: Software Engineering, Deep Learning, Machine Learning, Data Science, IoT, Predictive Maintenance.
 
-![Mr. ZhangBo](https://github.com/islomkhon/OpenBFD/blob/main/Authors/ZhangBo.png)
+![Mr. ZhangBo](https://github.com/islomkhon/OpenBFD/blob/main/Images/Authors/ZhangBo.png)
 ### Mr. ZhangBo (张博)
 
 Mr. ZhangBo is Islomkhon Nizomkhonov's master's degree supervisor for his research project on distributed deep neural networks, which Islomkhon conducted at China University of Mining and Technology.
@@ -48,19 +48,47 @@ pip install -r requirements.txt
 
 ## Quick Start
 
-```python
-import openbfd
+OpenBFD/
+│
+├── Authors/
+│   ├── IslomkhonNizomkhonov.png
+│   ├── ZhangBo.png
+│   └── README.md
+│
+├── Datasets/
+│   ├── DatasetName/
+│   │   ├── RawData/
+│   │   ├── preprocessor.py
+│   │   └── README.md
+│   │
+│   └── README.md
+│  
+├── Experiments/
+│   ├── ModelInputOutputType/
+│   │   └── ModelName/
+│   │       └── DatasetName/
+│   │           └── ExperimentName.py
+│   │
+│   └── README.md
+│
+├── Models/
+│   ├── ModelInputOutputType/
+│   │   └── ModelName/
+│   │       ├── Model.py
+│   │       ├── ResearchPaper.pdf
+│   │       └── README.md
+│   │           
+│   └── README.md
+│
+├── TrainingLoops/
+│   ├── ModelInputOutputType/
+│   │   └── train.py
+│   │           
+│   └── README.md
+│
+├── README.md 
+└── requirements.txt
 
-# Load a pre-trained model
-model = openbfd.load_model('bearing_fault_detector')
-
-# Analyze vibration data
-data = openbfd.load_data('vibration_data.csv')
-results = model.predict(data)
-
-# Visualize results
-openbfd.visualize(results)
-```
 
 ## Documentation
 
@@ -127,3 +155,22 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - GitHub Issues: For bug reports and feature requests
 - Email: islomkhon@mail.com
 - Instagram: [islomkhonnizomkhonov](https://instagram.com/islomkhonnizomkhonov)
+
+## Support the project
+
+If you find this project helpful, you can support OpenBFD by making donations via:
+
+<table>
+  <tr>
+    <th>WeChat</th>
+    <th>Alipay</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/islomkhon/OpenBFD/blob/main/Images/QR/wechat.jpg" alt="WeChat QR Code" width="280"/>
+    </td>
+    <td>
+      <img src="https://github.com/islomkhon/OpenBFD/blob/main/Images/QR/alipay.jpg" alt="Alipay QR Code" width="280"/>
+    </td>
+  </tr>
+</table>

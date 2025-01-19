@@ -99,21 +99,12 @@ OpenBFD/
 
 ## Contributing
 
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details on how to:
+We welcome contributions! Please follow the project structure and the conventions provided in the README.md file inside the contributing subdirectories. Feel free to:
 
 - Report bugs
 - Suggest new features
 - Submit pull requests
-- Improve documentation
-
-## Model Architecture
-
-OpenBFD uses a deep learning architecture specifically designed for bearing fault diagnosis:
-
-- Input Layer: Raw vibration signals
-- Feature Extraction: Convolutional layers
-- Classification: Fully connected layers
-- Output: Fault type and severity
+- Improve README.md documentations
 
 ## Citation
 

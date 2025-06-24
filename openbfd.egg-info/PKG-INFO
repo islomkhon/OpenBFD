@@ -92,9 +92,6 @@ Description: # OpenBFD: Open-Source Bearing Fault Diagnosis Tool
         │
         ├── Pictures/
         │   ├── Authors/
-        │   │   ├── IslomkhonNizomkhonov.png
-        │   │   └──  ZhangBo.png
-        │   │ 
         │   └── README.md
         │
         ├── README.md 

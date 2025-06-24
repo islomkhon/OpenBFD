@@ -87,7 +87,8 @@ OpenBFD/
 │   └── README.md
 │
 ├── README.md 
-└── setup.py
+├── setup.py 
+└── 伊斯罗贡+基于云边协同的工程机械故障诊断系统研究+117.pdf 
 ```
 
 ## Contributing

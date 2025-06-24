@@ -12,6 +12,7 @@ setup(
         'pandas',
         'scipy',
         'matplotlib',
+        'scikit-learn'
     ],
     # entry_points={  # Define an entry point (if you have a CLI)
     #     'console_scripts': [
